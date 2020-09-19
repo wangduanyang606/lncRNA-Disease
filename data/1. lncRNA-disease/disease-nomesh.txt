@@ -1,0 +1,128 @@
+pancreatic ductal adenocarcinoma
+laryngeal squamous cell cancer
+gastric adenocarcinoma
+sinonasal squamous cell carcinoma
+high grade ovarian serous cancer
+salivary adenoid cystic carcinoma
+rectal adenocarcinoma
+lung squamous cell carcinoma
+esophageal adenocarcinoma
+oral squamous cancer
+serous ovarian cancer
+oesophageal cancer
+cervical squamous cell carcinoma
+steosarcoma
+gastric cardia cancer
+pituitary null cell adenomas
+ovarian squamous cell cancer
+neonatal neuroblastoma
+colon adenocarcinoma
+pancreatic adenocarcinoma
+bladder urothelial cancer
+boneinvasive pituitary adenomas
+gastric cardia adenocarcinoma
+neuroendocrine prostate cancer
+basal-like breast cancer
+uterine corpus endometrial cancer
+non-functioning pituitary adenoma
+pancreatic neuroendocrine tumor
+urothelial cell carcinoma
+esophagus squamous cell carcinoma
+endometrioid endometrial cancer
+skin cutaneous melanoma
+advanced chronic myeloid leukemia
+cutaneous squamous cell carcinoma
+vulvar squamous cell carcinoma
+adenocarcinoma of esophagogastric junction
+type I endometrial cancer
+invasive mucinous adenocarcinoma
+maxillary sinus squamous cell carcinoma
+fosters cancer
+spinal cord ependymoma
+spinal cord glioma
+B-cell precursor acute lymphoblastic leukemia
+external auditory canal squamous cell carcinoma
+Gastroenteropancreatic Neuroendocrine Neoplasms
+bile duct carcinoma
+choroidal melanoma
+extramedullary myeloma
+bladder transitional cell carcinoma
+plexiform fibromyxoma
+clinical nonfunctioning pituitary adenoma
+phaeochromocytoma
+laryngocarcinoma
+rhabdomyosarcoma and neuroblastomacells
+endometrial endometrioid adenocarcinoma
+testicular embryonal carcinoma
+hepatitis B virus-positive HCC
+diffuse-type gastric cancer
+pediatric renal cell carcinoma
+ovarian clear cell carcinoma
+hepatic carcinoma
+papillomavirus-mediated cervical cancer
+epithelial squamous carcinoma
+female embryonal carcinoma
+muscle-invasive bladder cancer
+bladder urothelial carcinoma
+earlobe keloid
+human foamy virus infection?
+bladder carcinoma
+gastrointestinal system cancer
+type 1 endometrial cancer
+microinvasive gastric cancer
+parotid gland cancer
+RUNX1-rearranged acute leukemia
+stomach carcinoma
+myeloid neoplasm
+hematologic cancer
+TLS-associated pathological states
+arteriosclerotic cardiovascular disease
+cardiovascular system disease
+nervous system cancer
+gallbladder carcinoma
+myotonic dystrophy type 1
+skin melanoma
+triple-receptor negative breast cancer
+HPV-induced cervical cancer
+luminal subtype breast cancer
+cardiomyocyte apoptosis
+bladder transitional cell carcinomas
+hypersensitivity reaction type II disease
+LPS-induced inflammatory injury
+breast adenocarcinoma
+cardiac fibroblast proliferation and fibrosis
+cardiomyocyte hypertrophy
+cholestatic liver injury
+intestinal epithelial barrier function
+atypical teratoid rhabdoid tumor
+functionless pituitary adenoma
+sporadic thoracic aortic aneurysm
+periampullary region tumor
+thrombocytopenia due to platelet alloimmunization
+high-grade ovarian serous cancer
+glioma vasculogenic mimicry formation
+in situ pulmonary adenocarcinoma
+chronic glomerulonephritis
+calcific aortic valve disease
+decreased myogenesis
+endometrial adenocarcinoma
+Follicular and H¨¹rthle Cell Thyroid Neoplasm
+high glucose-induced podocyte injury
+ovarian endometrial cancer
+uterine corpus endometrial stromal sarcoma
+vulva squamous cell carcinoma
+pancreatic endocrine carcinoma
+testicular germ cell cancer
+dengue disease
+embryonal testis carcinoma
+glucose metabolism disease
+atherosclerosis-related vascular dysfunction
+diffuse-type gastric carcinoma?
+early onset preeclampsia
+131I-resistant papillary thyroid carcinoma
+Progressive encephalopathy with severe infantile anorexia
+EBV-associated gastric carcinoma
+kidney clear cell sarcoma
+bladder adenocarcinoma
+glandular cystitis
+denatured dermis
